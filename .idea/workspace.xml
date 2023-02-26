@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbf56645-6360-4aca-9caf-86fc4b9f5396" name="变更" comment="" />
+    <list default="true" id="fbf56645-6360-4aca-9caf-86fc4b9f5396" name="变更" comment="Images" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,11 +37,23 @@
       <updated>1677412816653</updated>
       <workItem from="1677412818048" duration="5000" />
       <workItem from="1677412829772" duration="8000" />
-      <workItem from="1677412849858" duration="359000" />
+      <workItem from="1677412849858" duration="416000" />
     </task>
+    <task id="LOCAL-00001" summary="Images">
+      <created>1677413251890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677413251890</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Images" />
   </component>
 </project>
